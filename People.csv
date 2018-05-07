@@ -1,1 +1,7 @@
-""
+,Characteristic_Age,Characteristic_Eye_Color,Characteristic_Gender,Characteristic_Hair_Texture,Characteristic_Hair_color,Characteristic_Height,Characteristic_Passions,Name,Number,Seeking_Age_Max,Seeking_Age_Min,Seeking_Eye_Color,Seeking_Gender,Seeking_Hair_Color,Seeking_Hair_Texture,Seeking_Height
+0,20,Brown,Male,Straight,Brown,72,"['Snowboarding', 'Skiing', 'Writing', 'Smart', 'Being cool', 'Being done with this survey', 'Being princess']",Ian Orlando,8022384553,22,18,Unimportant,Female,Unimportant,Unimportant,69
+1,20,Mixed,Female,Wavy,Brown,69,"['Snowboarding', 'Skiing', 'Writing', 'Smart', 'Being cool', 'Being done with this survey', 'Being princess']",Sarah Crawford,8022384553,22,20,Brown,Male,Brown,Straight,72
+2,21,Blue,Male,Straight,Blond,70,"['Snowboarding', 'Skiing', 'Writing', 'Smart', 'Being cool', 'Being done with this survey', 'Being princess']",John smith,1234567899,21,17,Unimportant,Unimportant,Unimportant,Unimportant,70
+3,22,Red,Male,Curly,Brown,55,"['Snowboarding', 'Skiing', 'Writing', 'Smart', 'Being cool', 'Being done with this survey', 'Being princess']",bobby columbo,iorlando@syr.edu,21,20,Brown,Female,Brown,Unimportant,Unimportant
+4,18,Blue,Male,Straight,Blue,66,"['Snowboarding', 'Skiing', 'Writing', 'Smart', 'Being cool', 'Being done with this survey', 'Being princess']",joseph levit,2828082108312,19,18,Blue,Male,Blue,Straight,66
+5,63,Blue,Female,Curly,Blond,64,"['Snowboarding', 'Skiing', 'Writing', 'Smart', 'Being cool', 'Being done with this survey', 'Being princess']",princess dianna,6786786677,67,22,Gray,Male,Brown,Curly,66
