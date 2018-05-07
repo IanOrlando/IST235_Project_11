@@ -1,7 +1,13 @@
-,Characteristic_Age,Characteristic_Eye_Color,Characteristic_Gender,Characteristic_Hair_Texture,Characteristic_Hair_color,Characteristic_Height,Characteristic_Passions,Name,Number,Seeking_Age_Max,Seeking_Age_Min,Seeking_Eye_Color,Seeking_Gender,Seeking_Hair_Color,Seeking_Hair_Texture,Seeking_Height
-0,20,Brown,Male,Straight,Brown,72,"['Snowboarding', 'Skiing', 'Writing', 'Smart', 'Being cool', 'Being done with this survey', 'Being princess']",Ian Orlando,8022384553,22,18,Unimportant,Female,Unimportant,Unimportant,69
-1,20,Mixed,Female,Wavy,Brown,69,"['Snowboarding', 'Skiing', 'Writing', 'Smart', 'Being cool', 'Being done with this survey', 'Being princess']",Sarah Crawford,8022384553,22,20,Brown,Male,Brown,Straight,72
-2,21,Blue,Male,Straight,Blond,70,"['Snowboarding', 'Skiing', 'Writing', 'Smart', 'Being cool', 'Being done with this survey', 'Being princess']",John smith,1234567899,21,17,Unimportant,Unimportant,Unimportant,Unimportant,70
-3,22,Red,Male,Curly,Brown,55,"['Snowboarding', 'Skiing', 'Writing', 'Smart', 'Being cool', 'Being done with this survey', 'Being princess']",bobby columbo,iorlando@syr.edu,21,20,Brown,Female,Brown,Unimportant,Unimportant
-4,18,Blue,Male,Straight,Blue,66,"['Snowboarding', 'Skiing', 'Writing', 'Smart', 'Being cool', 'Being done with this survey', 'Being princess']",joseph levit,2828082108312,19,18,Blue,Male,Blue,Straight,66
-5,63,Blue,Female,Curly,Blond,64,"['Snowboarding', 'Skiing', 'Writing', 'Smart', 'Being cool', 'Being done with this survey', 'Being princess']",princess dianna,6786786677,67,22,Gray,Male,Brown,Curly,66
+,Characteristic_Age,Characteristic_Eye_Color,Characteristic_Gender,Characteristic_Hair_Texture,Characteristic_Hair_color,Characteristic_Height,Name,Number,Number.1,Seeking_Age_Max,Seeking_Age_Min,Seeking_Eye_Color,Seeking_Gender,Seeking_Hair_Color,Seeking_Hair_Texture,Seeking_Height,Unnamed: 0,Unnamed: 0.1,Unnamed: 0.1.1
+0,20,Brown,Male,Straight,Brown,72,Ian Orlando,0,8022384553,22,18,Unimportant,Female,Unimportant,Unimportant,69,0.0,0.0,0.0
+1,20,Mixed,Female,Wavy,Brown,69,Sarah Crawford,1,8022384553,22,20,Brown,Male,Brown,Straight,72,1.0,1.0,1.0
+2,21,Blue,Male,Straight,Blond,70,John smith,2,1234567899,21,17,Unimportant,Unimportant,Unimportant,Unimportant,70,2.0,2.0,2.0
+3,22,Red,Male,Curly,Brown,55,bobby columbo,3,iorlando@syr.edu,21,20,Brown,Female,Brown,Unimportant,Unimportant,3.0,3.0,3.0
+4,18,Blue,Male,Straight,Blue,66,joseph levit,4,2828082108312,19,18,Blue,Male,Blue,Straight,66,4.0,4.0,4.0
+5,63,Blue,Female,Curly,Blond,64,princess dianna,5,6786786677,67,22,Gray,Male,Brown,Curly,66,5.0,5.0,5.0
+6,23,Red,Male,Frizzy,Blond,70,jimmy mith,6,9292929,23,19,Brown,Female,White,Unimportant,70,6.0,6.0,6.0
+7,20,Brown,Female,Straight,Brown,60,jennifer skulski,0,292929292,23,19,Unimportant,Male,Unimportant,Unimportant,78,7.0,7.0,7.0
+8,24,Red,Female,Curly,Brown,65,colbert,202020202,,Unimportant,Unimportant,Unimportant,Female,Unimportant,Curly,65,8.0,8.0,0.0
+9,32,Amber,Male,Frizzy,Mixed,65,ronald,0202022-,,43,19,Green,Female,Mixed,Curly,65,9.0,0.0,
+10,21,Blue,Female,Wavy,Black,69,Meredith Vondran,254112232,,22,20,Unimportant,Male,Unimportant,Unimportant,Unimportant,10.0,,
+11,19,Brown,Female,Curly,Brown,62,lilly marco,5188606181,,22,19,Unimportant,Male,Unimportant,Unimportant,70,,,
