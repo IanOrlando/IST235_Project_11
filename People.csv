@@ -1,5 +1,5 @@
 ,Name,Contact_Info,Characteristic_Age,Characteristic_Gender,Characteristic_Hair_color,Characteristic_Hair_Texture,Characteristic_Eye_Color,Characteristic_Height,Seeking_Age_Min,Seeking_Age_Max,Seeking_Gender,Seeking_Hair_Color,Seeking_Hair_Texture,Seeking_Eye_Color,Seeking_Height
-0,Ian Orlando,iorlando@syr.edu,20,Male,Brown,Straight,Brown,73,19,22,Female,Unimportant,Unimportant,Unimportant,68
+0,Ian Orlando,iorlando@syr.edu,20,Male,Brown,Straight,Brown,73,19,22,Female,Red,Curly,Hazel,69
 1,John Orlando,jorlando2001@gmail.com,51,Male,Black,Curly,Brown,72,50,55,Female,Blond,Curly,Unimportant,66
 2,Bobby Columbo,bcolumb@syr.edu,23,Male,Brown,Straight,Blue,70,21,24,Female,Unimportant,Unimportant,Unimportant,66
 3,Kimberly Thomas,75443,20,Female,Blond,Curly,Brown,64,Unimportant,Unimportant,Unimportant,Unimportant,Unimportant,Unimportant,Unimportant
@@ -28,6 +28,9 @@
 26,Andrew Hernandez,75@75.org,20,Male,Black,Wavy,Brown,70,20,23,Female,Brown,Straight,Brown,66
 27,Fred Brown,75@gmail.com,19,Male,Brown,Straight,Brown,71,19,22,Female,Blond,Wavy,Blue,64
 28,Fred Cho,75@ppv.net,19,Male,Black,Curly,Brown,70,20,23,Female,Brown,Straight,Brown,66
-29,Ian Orlando,iorlando@syr.edu,20,Male,Brown,Straight,Brown,72,19,22,Female,Unimportant,Unimportant,Unimportant,66
-30,Jeremy Smith,jsmith@syr.edu,21,Male,Blond,Curly,Green,70,19,23,Female,Unimportant,Unimportant,Unimportant,67
-31,Ian Orlando,iorlando@syr.edu,20,Male,Brown,Straight,Brown,72,20,22,Female,Unimportant,Unimportant,Brown,67
+29,Jeremy Smith,jsmith@syr.edu,21,Male,Blond,Curly,Green,70,19,23,Female,Unimportant,Unimportant,Unimportant,67
+30,Hey Arnold,heyarnold@gmail.com,18,Other,Red,Straight,Blue,56,Unimportant,Unimportant,Unimportant,Unimportant,Unimportant,Unimportant,69
+31,Beyonce Knowles,beyonce@beyonce.beyonce,40,Female,Black,Curly,Brown,69,30,50,Male,Unimportant,Unimportant,Unimportant,Unimportant
+32,Heidi Smith,hsmith@gmail.com,20,Female,Blond,Straight,Blue,69,18,27,Unimportant,Unimportant,Unimportant,Unimportant,56
+33,Joe Smith,joesmith87@syr.edu,43,Male,Black,Straight,Brown,70,35,55,Female,Black,Straight,Blue,Unimportant
+34,Sarah Crawford,slcrawfo@syr.edu,20,Female,Red,Curly,Hazel,69,20,20,Male,Brown,Straight,Brown,73
