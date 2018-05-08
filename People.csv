@@ -1,13 +1,30 @@
-,Characteristic_Age,Characteristic_Eye_Color,Characteristic_Gender,Characteristic_Hair_Texture,Characteristic_Hair_color,Characteristic_Height,Name,Number,Number.1,Seeking_Age_Max,Seeking_Age_Min,Seeking_Eye_Color,Seeking_Gender,Seeking_Hair_Color,Seeking_Hair_Texture,Seeking_Height,Unnamed: 0,Unnamed: 0.1,Unnamed: 0.1.1
-0,20,Brown,Male,Straight,Brown,72,Ian Orlando,0,8022384553,22,18,Unimportant,Female,Unimportant,Unimportant,69,0.0,0.0,0.0
-1,20,Mixed,Female,Wavy,Brown,69,Sarah Crawford,1,8022384553,22,20,Brown,Male,Brown,Straight,72,1.0,1.0,1.0
-2,21,Blue,Male,Straight,Blond,70,John smith,2,1234567899,21,17,Unimportant,Unimportant,Unimportant,Unimportant,70,2.0,2.0,2.0
-3,22,Red,Male,Curly,Brown,55,bobby columbo,3,iorlando@syr.edu,21,20,Brown,Female,Brown,Unimportant,Unimportant,3.0,3.0,3.0
-4,18,Blue,Male,Straight,Blue,66,joseph levit,4,2828082108312,19,18,Blue,Male,Blue,Straight,66,4.0,4.0,4.0
-5,63,Blue,Female,Curly,Blond,64,princess dianna,5,6786786677,67,22,Gray,Male,Brown,Curly,66,5.0,5.0,5.0
-6,23,Red,Male,Frizzy,Blond,70,jimmy mith,6,9292929,23,19,Brown,Female,White,Unimportant,70,6.0,6.0,6.0
-7,20,Brown,Female,Straight,Brown,60,jennifer skulski,0,292929292,23,19,Unimportant,Male,Unimportant,Unimportant,78,7.0,7.0,7.0
-8,24,Red,Female,Curly,Brown,65,colbert,202020202,,Unimportant,Unimportant,Unimportant,Female,Unimportant,Curly,65,8.0,8.0,0.0
-9,32,Amber,Male,Frizzy,Mixed,65,ronald,0202022-,,43,19,Green,Female,Mixed,Curly,65,9.0,0.0,
-10,21,Blue,Female,Wavy,Black,69,Meredith Vondran,254112232,,22,20,Unimportant,Male,Unimportant,Unimportant,Unimportant,10.0,,
-11,19,Brown,Female,Curly,Brown,62,lilly marco,5188606181,,22,19,Unimportant,Male,Unimportant,Unimportant,70,,,
+,Name,Contact_Info,Characteristic_Age,Characteristic_Gender,Characteristic_Hair_color,Characteristic_Hair_Texture,Characteristic_Eye_Color,Characteristic_Height,Seeking_Age_Min,Seeking_Age_Max,Seeking_Gender,Seeking_Hair_Color,Seeking_Hair_Texture,Seeking_Eye_Color,Seeking_Height
+0,Ian Orlando,iorlando@syr.edu,20,Male,Brown,Straight,Brown,73,19,22,Female,Unimportant,Unimportant,Unimportant,68
+1,John Orlando,jorlando2001@gmail.com,51,Male,Black,Curly,Brown,72,50,55,Female,Blond,Curly,Unimportant,66
+2,Bobby Columbo,bcolumb@syr.edu,23,Male,Brown,Straight,Blue,70,21,24,Female,Unimportant,Unimportant,Unimportant,66
+3,Kimberly Thomas,75443,20,Female,Blond,Curly,Brown,64,Unimportant,Unimportant,Unimportant,Unimportant,Unimportant,Unimportant,Unimportant
+4,Lisa Cox,75221,21,Female,Blond,Curly,Brown,67,20,25,Male,Blond,Straight,Brown,69
+5,Siri Apple,7523123,23,Female,Black,Curly,Brown,66,18,21,Male,Unimportant,Straight,Unimportant,72
+6,jessica Holmes,75123123,22,Female,Blond,Wavy,Brown,66,18,21,Male,Unimportant,Straight,Unimportant,72
+7,Ashley Tisdale,75123123,20,Female,Black,Curly,Brown,67,20,25,Male,Blond,Straight,Brown,69
+8,Romaine Lettuce,75345345,20,Female,Brown,Straight,Brown,64,19,Unimportant,Unimportant,Unimportant,Unimportant,Unimportant,69
+9,Henrietta Henriettason,7523463,19,Female,Blond,Wavy,Brown,67,20,25,Male,Blond,Straight,Brown,69
+10,Jennifer Skulski,756547234,23,Female,Black,Straight,Brown,70,20,23,Female,Brown,Straight,Brown,66
+11,Annie Jackson,7512364,19,Female,Brown,Curly,Brown,66,18,21,Male,Unimportant,Straight,Unimportant,72
+12,Kathryn Torres,751236435,19,Female,Black,Curly,Brown,71,19,22,Female,Blond,Wavy,Blue,64
+13,Cheryl Hernandez,7512366,19,Female,Brown,Curly,Brown,70,20,23,Female,Brown,Straight,Brown,66
+14,Judith Wood,75123532,21,Female,Black,Straight,Brown,67,20,25,Male,Blond,Straight,Brown,69
+15,Mary Ramirez,751236654,19,Female,Blond,Curly,Brown,64,19,Unimportant,Unimportant,Unimportant,Unimportant,Unimportant,69
+16,Steven Young,75754733,21,Male,Black,Wavy,Brown,71,19,22,Female,Blond,Wavy,Blue,64
+17,Kenneth Price,7512366534,20,Male,Blond,Curly,Brown,66,18,21,Male,Unimportant,Straight,Unimportant,72
+18,Richard Turner,75982342,23,Male,Black,Curly,Brown,70,20,23,Female,Brown,Straight,Brown,66
+19,Kevin Williams,75009123,19,Male,Brown,Straight,Brown,70,20,23,Female,Brown,Straight,Brown,66
+20,Jonathan Bennett,751239882,20,Male,Blond,Straight,Brown,71,19,22,Female,Blond,Wavy,Blue,64
+21,Aaron Henderson,7510293921,19,Male,Brown,Wavy,Brown,67,20,25,Male,Blond,Straight,Brown,69
+22,Daniel Gonzales,7512039123,22,Male,Black,Straight,Brown,70,20,23,Female,Brown,Straight,Brown,66
+23,Benjamin Adams,751231231,19,Male,Blond,Curly,Brown,67,20,25,Male,Blond,Straight,Brown,69
+24,Walter Reed,75530294,20,Male,Blond,Straight,Brown,71,19,22,Female,Blond,Wavy,Blue,64
+25,Albert White,75192858923,19,Male,Blond,Straight,Brown,70,20,23,Female,Brown,Straight,Brown,66
+26,Andrew Hernandez,75@75.org,20,Male,Black,Wavy,Brown,70,20,23,Female,Brown,Straight,Brown,66
+27,Fred Brown,75@gmail.com,19,Male,Brown,Straight,Brown,71,19,22,Female,Blond,Wavy,Blue,64
+28,Fred Cho,75@ppv.net,19,Male,Black,Curly,Brown,70,20,23,Female,Brown,Straight,Brown,66
